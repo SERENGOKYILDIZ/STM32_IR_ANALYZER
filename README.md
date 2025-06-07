@@ -2,7 +2,7 @@
 This project demonstrates how to receive and decode IR remote signals using an STM32 microcontroller. The firmware captures IR signals via an external interrupt, measures pulse widths with TIM2 timer, and decodes the 32-bit NEC protocol data. Decoded characters are output via UART (USART2) using printf.
 
 <div style="text-align: center;">
-  <img src="images/ir_module.jpg" alt="IR Module" width="800">
+  <img src="images/ir_module.jpg" alt="IR Module" width="500">
 </div>
 This is IR Modules
 
